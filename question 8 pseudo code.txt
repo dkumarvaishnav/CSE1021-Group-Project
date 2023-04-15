@@ -1,0 +1,6 @@
+M1 = take input from user as marks for first subject M1 = take input from user as marks for first subject 
+M1 = take input from user as marks for first subject 
+Set marks = sum of three subjects, M1 + M2 + M3
+Set avg = marks / 3
+Display the average grade, print(avg) 
+ 

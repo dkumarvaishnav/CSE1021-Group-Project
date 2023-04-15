@@ -1,0 +1,5 @@
+L = take a number as input for length
+B = take a number as input for breadth
+H = take a number as input height
+Set V = L*B*H
+Print the product(“The volume of the rectangular box is”, V)

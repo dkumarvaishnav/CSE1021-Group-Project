@@ -1,0 +1,5 @@
+H = total hours worked on a day taken as input
+R = rate of pay per hour taken as input
+W = hours worked*hourly rate of pay
+Print (“The daily wage is”, W)
+ 

@@ -1,0 +1,6 @@
+START 
+Take input for the base and height of the triangle 
+If base and height are > 0, then set the area = 0.5 * base * height 
+Calculate the area of the triangle 
+Display the area of the triangle 
+STOP 

@@ -1,0 +1,5 @@
+A = take input from user as first number
+B = take input from user as second number
+Set S = sum of two numbers, A + B
+Set AVG = half of the sum, S/2
+Print AVG
