@@ -1,6 +1,0 @@
-P = Principal Amount taken as an input (numbers only) 
-I = Interest Rate taken as a user input (float only) 
-N = Time Period over which Interest is applied (numbers only) 
-T = P(1 + I/100)^N 
-print(The Total Amount is “, T)
- 

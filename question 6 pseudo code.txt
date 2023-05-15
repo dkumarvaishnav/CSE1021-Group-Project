@@ -1,5 +1,0 @@
-P = Principal Amount taken as an input 
-R = Interest Rate taken as a user input 
-T = Time Period over which Interest is applied 
-SI = (P * R * T)/100
-print(The Simple Interest is “, SI)
