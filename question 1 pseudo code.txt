@@ -1,3 +1,0 @@
-A = take a number as input from user
-B = take a number as input from user
-S = A + B print the sum, S (“The sum of”, A, “and”, B, “is”, S)
