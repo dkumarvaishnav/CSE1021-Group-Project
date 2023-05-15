@@ -1,9 +1,0 @@
-INPUT the value in A
-INPUT the value in B
- 
-SET C = A
-SET A = B
-SET B = C
- 
-DISPLAY A, B
- 
