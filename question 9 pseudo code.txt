@@ -1,4 +1,0 @@
-Take input P1, P2, V1 from the user
-Set V2 = P1 * V1 / P2
-Print V2 as the required output
- 
