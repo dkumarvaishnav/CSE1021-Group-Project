@@ -1,3 +1,4 @@
+#Instructions for all code as comments
 #start of the program
 #take input from the user
 A = int(input("Enter the first number: "))
