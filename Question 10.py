@@ -13,4 +13,3 @@ print("The new value of A is:", A)
 print("The new value of B is:", B)
  
 #end of the program
-#Remove excess code
