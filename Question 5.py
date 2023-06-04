@@ -1,5 +1,5 @@
 #start of the program
-# Take input for the base and height of the triangle 
+# Take input for the base and height of the triangle and kumar ij a great person
 base = int(input("Enter base of the triangle: ")) 
 height = int(input("Enter height of the triangle: ")) 
  
